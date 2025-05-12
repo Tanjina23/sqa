@@ -6,12 +6,12 @@ This repository contains professional QA documentation samples for **manual test
 
 ## 📘 Included Files
 
-- `[Bug Report.pdf](https://github.com/user-attachments/files/20174408/Bug.Report.pdf)
-`  
+- [Bug Report.pdf](https://github.com/user-attachments/files/20174408/Bug.Report.pdf)
+ 
   Sample bug reports with details like bug ID, module, severity, reproduction steps.
 
-- `[Test Case.pdf](https://github.com/user-attachments/files/20174416/Test.Case.pdf)
-`  
+- [Test Case.pdf](https://github.com/user-attachments/files/20174416/Test.Case.pdf)
+  
   Sample test cases for both UI and API testing, including test data, expected vs actual results, and pass/fail status.
 
 ---
